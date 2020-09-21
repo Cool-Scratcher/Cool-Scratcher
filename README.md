@@ -1,32 +1,31 @@
 <h2> Hey! I'm Cool Scratcher.</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👦🏽 About Me </h3>
 
 - 💻 &nbsp; Coding along with mediocre but slightly advanced skills
-- 🎨 &nbsp; A pretty awesome graphic designer
-- 💼 &nbsp; Being a buisnesskid working at Kid Creators Team
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎨 &nbsp; Trying to mix programming with aesthetics
+- ✍🏽 &nbsp; Being an author
+- 💼 &nbsp; Being a buisnesskid working at [Kid Creators Team](https://github.com/kidcreatorsteam)
+- 😜 &nbsp; Trying to learn more about video game development and Unity
+- ✍️ &nbsp; Being a graphic designer and [motivational speaker](https://www.canva.com/design/DAEH4QBtlk8/hfEXYK9myN5XYno3ZqF60A/view).
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech I Use</h3>
 
-- 💻 &nbsp; Python | Java | C++ | R (Statistics) | MATLAB
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 💻 &nbsp; Scratch | Python
+- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🖊 &nbsp; Git
+- 🖌 &nbsp; Figma | Canva | Adobe XD
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
+[![Cool-Scratcher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cool-Scratcher&show_icons=true)](https://github.com/AVS1508)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://kidcreatorsteam.com/">💡</a> <br/>
+  <a href="mailto:coolscratcher@gmail.com">📧</a> <br/>
+  <a href="https://dev.to/coolscratcher">DEV</a> <br/>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
