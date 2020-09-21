@@ -27,5 +27,3 @@
   <a href="mailto:coolscratcher@gmail.com">📧</a> <br/>
   <a href="https://dev.to/coolscratcher">DEV</a> <br/>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
