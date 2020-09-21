@@ -22,7 +22,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p>
   <a href="https://kidcreatorsteam.com/">💡</a> <br/>
   <a href="mailto:coolscratcher@gmail.com">📧</a> <br/>
   <a href="https://dev.to/coolscratcher">DEV</a> <br/>
