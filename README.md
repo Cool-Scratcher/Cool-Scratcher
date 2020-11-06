@@ -7,7 +7,7 @@
 - ✍🏽 &nbsp; Being an author
 - 💼 &nbsp; Being a buisnesskid working at [Kid Creators Team](https://github.com/kidcreatorsteam)
 - 😜 &nbsp; Trying to learn more about video game development and Unity
-- ✍️ &nbsp; Being a graphic designer and [motivational speaker](https://www.canva.com/design/DAEH4QBtlk8/hfEXYK9myN5XYno3ZqF60A/view).
+- ✍️ &nbsp; Being a graphic designer and motivational speaker.
 
 <h3>🛠 Tech I Use</h3>
 
