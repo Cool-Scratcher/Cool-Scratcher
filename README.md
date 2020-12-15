@@ -18,7 +18,7 @@
 
 <br/>
 
-[![Cool-Scratcher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cool-Scratcher&show_icons=true)](https://github.com/AVS1508)
+[![Cool-Scratcher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cool-Scratcher&show_icons=true)](https://github.com/Cool-Scratcher)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
