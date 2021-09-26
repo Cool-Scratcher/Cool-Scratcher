@@ -4,7 +4,7 @@
 
 - 💻 &nbsp; Coding along with mediocre but slightly advanced skills
 - 🎨 &nbsp; Trying to mix programming with aesthetics and art
-- ✍🏽 &nbsp; Writing and looking for an agent (if you know someone who's interested in working with me, please contact me!)
+- ✍🏽 &nbsp; Writing and looking for a literary agent (if you know someone who's interested in working with me, please contact me!)
 - 💼 &nbsp; Being a buisnesskid working at [Kid Creators Team](https://github.com/kidcreatorsteam), a kid-run and led company
 - 😜 &nbsp; Trying to learn more about video game development and Unity
 - ✍️ &nbsp; Being a graphic designer and motivational speaker.
