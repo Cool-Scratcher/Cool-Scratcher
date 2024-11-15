@@ -1,24 +1,14 @@
-<h2> Hey! I'm Mohit Gore. My internet name is Cool Scratcher.</h2>
+<h2> Hey! I'm Mohit Gore.</h2>
 
-<h3> 👦🏽 About Me </h3>
+<h3> About Me </h3>
+<p>An overly ambitious 16-year-old lover of words, film, logic, poetry, and prose.</p>
 
-- 🎨 &nbsp; Getting back into coding. I just finished a website for myself!
-- ✍🏽 &nbsp; Writing (I just finished a poetry book, published on July 6th!)
-- 😜 &nbsp; Being productive and all that jazz
-- ✍️ &nbsp; Getting back into the swing of things for the summer! Lots of content and projects on the way
+<h3> What I've Been Doing Lately </h3>
 
-<h3>🛠 Tech I Use</h3>
+- 🎨 &nbsp; (Slowly) getting back into coding. I recently put my website together. It has some issues, I needed a lot of help to make it, and it is not responsive whatsoever - but it works for now lol. Hopefully I'll update it at some point
+- ✍🏽 &nbsp; Writing. I just published a poetry book! You can read it on my website. It's a little flawed. But I think it's cool. I've also been working on a novel and webcomic, but no information can be revealed about those yet...
+- 😵 &nbsp; School, sadly
+- 😶 &nbsp; Starting ninety thousand projects and never finishing them. NEURODIVERGENCE WOOOO
 
-- 🌐 &nbsp; HTML | CSS | JavaScript
-- 🖌 &nbsp; GIMP | Figma | Blender | OBS | DaVinci Resolve
-
-<br/>
-
-[![Cool-Scratcher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cool-Scratcher&show_icons=true)](https://github.com/Cool-Scratcher)
-
-<h3>🤝🏻 Connect with Me</h3>
-
-<p>
-  <a href="https://linktr.ee/MohitGore">Linktree</a> <br/>
-  <a href="mailto:coolscratcher@gmail.com">Email</a>
-</p>
+<h3> Stalk Me </h3>
+<p>Ya weirdo. But sure. Here's <a href="https://mohitgore.com/">my haphazard website</a>, and here's <a href="https://linktr.ee/mohitgore">my Linktree</a>.</p>
