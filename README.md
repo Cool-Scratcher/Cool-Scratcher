@@ -5,8 +5,8 @@
 
 <h3> What I've Been Doing Lately </h3>
 
-- 🎨 &nbsp; (Slowly) getting back into coding. I recently put my website together. It has some issues, I needed a lot of help to make it, and it is not responsive whatsoever - but it works for now lol. Hopefully I'll update it at some point
-- ✍🏽 &nbsp; Writing. I just published a poetry book! You can read it on my website. It's a little flawed. But I think it's cool. I've also been working on a novel and webcomic, but no information can be revealed about those yet...
+- 🎨 &nbsp; (Slowly) getting back into coding. I recently updated my website and I think it's pretty neat. I also recently made a live chat in Google Sheets using the Google Apps Script API! Definitely my coolest project.
+- ✍🏽 &nbsp; Writing. I published two poetry books in 2024! You can read them on my website. They're a little flawed, but overall pretty cool. I've also been working on a novel and webcomic, but no information can be revealed about those yet...
 - 😵 &nbsp; School, sadly
 - 😶 &nbsp; Starting ninety thousand projects and never finishing them. NEURODIVERGENCE WOOOO
 
