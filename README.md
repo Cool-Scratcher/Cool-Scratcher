@@ -1,13 +1,8 @@
 <h2> Hey! I'm Mohit Gore.</h2>
 
 <h3> About Me </h3>
-<p>An overly ambitious 17-year-old lover of words, film, logic, poetry, and prose.</p>
-
-<h3> What I've Been Doing Lately </h3>
-
-- 💾 &nbsp; (Slowly) getting back into coding. I've been adding the most insane things to my website, like easter eggs, a progression system for hidden content, etc. I also once made a live chat in Google Sheets using the Google Apps Script API!
-- ✍🏽 &nbsp; Writing. I published two poetry books in 2024! You can read them on my website. They're a little flawed, but overall pretty cool. I began work on a third, and so far it looks like it'll be better than the other two.
-- 😶 &nbsp; Starting ninety thousand projects and never finishing them
-
-<h3> Stalk Me </h3>
-<p>Ya weirdo. But sure. Here's <a href="https://mohitgore.com/">my haphazard website</a>, and here's <a href="https://linktr.ee/mohitgore">my Linktree</a>.</p>
+<p>I'm 18 and I do a lot of stuff. Currently I'm building a full-length video game on my portfolio website. It's not finished yet, but a humongous content update is coming sometime soon. (April? May? It's been over six months. I really need to stop adding new features!</p>
+<ul>
+  <li><a href="https://mohitgore.com/">My website</a></li>
+  <li><a href="https://github-readme-stats.hackclub.dev/api/wakatime?username=20636&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">Stats</a></li>
+</ul>
